@@ -1,7 +1,7 @@
 # Autonomous Buggy Project
 - - - -
 ## Overview:
-In this group project, we were provided with a kit containing IR sensors, US sensors, motors and an arduino. With this equipment we were required to build a buggy that traverses a track (white line), while also avoiding obstacles. Steering and obstacle avoidance was implemented using downward facing IR sensors and a horizontal US sensor respectively.
+In this group project, we were provided with a kit containing IR sensors, US sensors, motors and an arduino. With this equipment we were required to build a buggy that traverses a track (line of contrasting colour), while also avoiding obstacles. Steering and obstacle avoidance was implemented using downward facing IR sensors and a horizontal US sensor respectively.
 
 <p align="center">
   <img src="https://github.com/Haskins2/Autonomous-Buggy-Project/assets/126469860/cfdf0778-af8c-4665-ac2a-84d8af5e8658" alt="https://github.com/Haskins2/Autonomous-Buggy-Project/assets/126469860/cfdf0778-af8c-4665-ac2a-84d8af5e8658" width="200"/>
