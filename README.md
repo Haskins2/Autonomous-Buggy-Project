@@ -24,6 +24,6 @@ This project had 3 challenges progressing in difficulty.
 * Report current speed of buggy to user GUI
 
 #### 3. Gold task (Optional creative challenge):
-By reusing the PID implemented in the challenge above, as well as live IMU data, we got the buggy to balance upright on two wheels.
+  + By reusing the PID implemented in the challenge above, as well as live IMU data, we got the buggy to balance upright on two wheels.
 
-![ezgif-1-4ca4ab8c1d](https://github.com/Haskins2/Autonomous-Buggy-Project/assets/126469860/1827c42f-2119-463e-8db2-ea36e984f2ce)
+    ![ezgif-1-4ca4ab8c1d](https://github.com/Haskins2/Autonomous-Buggy-Project/assets/126469860/1827c42f-2119-463e-8db2-ea36e984f2ce)
